@@ -9,7 +9,9 @@ I am self-taught passionate Full-stack Developer from India.I was drawn towards 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Sam](http://brilliant-wisp-40d97b.netlify.app/)
 * ✉️  You can contact me at [priyamuthukumar1203@gmail.com](mailto:priyamuthukumar1203@gmail.com)
-* 🧠  I'm learning Advanced React Js
+* ✍️  See my progress at [Leetcode](https://leetcode.com/_sam1203/)
+
+* 🧠  I'm learning Advanced React Js
 
 ### Skills
 
