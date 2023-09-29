@@ -4,10 +4,10 @@ Hi 👋 I am Shanmuga Priya
 Full Stack Developer
 --------------------
 
-I am self-taught passionate programmer from India.I was drawn towards a career in tech because I am a huge fan of develop a website. I enjoy solving complex problems and design rhe website. I started to learn about web development through many video tutorials, documentations and articles. The first programming language I learned was C++ Always seeking challenging position in and organization where my skills find ample of oppurtunities for upgradation and growth of the company
+Passionate MERN Stack Developer with an Electronics and Communication Engineering background. Driven by the art of crafting immersive web experiences, I embarked on the path of website development. With an eye for detail and a love for clean code, I bring creativity and functionality together to build seamless digital solutions. Let's transform ideas into captivating websites that leave a lasting impression
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Sam](http://brilliant-wisp-40d97b.netlify.app/)
+* 🖥️  See my portfolio at [Sam](https://sprightly-salamander-bc8dcd.netlify.app/)
 * ✉️  You can contact me at [priyamuthukumar1203@gmail.com](mailto:priyamuthukumar1203@gmail.com)
 * ✍️  See my progress at [Leetcode](https://leetcode.com/_sam1203/)
 
