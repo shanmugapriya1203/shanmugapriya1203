@@ -13,7 +13,7 @@ Highly motivated web developer with MERN stack proficiency eager to contribute a
 * 🤝  I'm open to collaborating on Exciting and innovative projects that push boundaries and inspire creativity. Let's build something awesome together!
 * ⚡  Apart from coding, I'm also a passionate cook, experimenting with flavors and recipes in the kitchen. Let's whip up some code magic and culinary delights together! 🍳💻
   </br>
-<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 
 ### Skills
 #### Frontend Development : [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -22,15 +22,14 @@ Highly motivated web developer with MERN stack proficiency eager to contribute a
 
 #### Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)[![Framer](https://img.shields.io/badge/Framer-black?logo=framer&logoColor=blue)](https://www.framer.com/)[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)[![Render](https://img.shields.io/badge/Render-E3E3E3?logo=render&logoColor=black)](https://render.com/)[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 
 </br>
 <!--  MY README STAT  -->
  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=shanmugapriya1203&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
 
- <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+
 
 </br>
 
@@ -39,8 +38,7 @@ Highly motivated web developer with MERN stack proficiency eager to contribute a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugapriya1203&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
 </p>
 
-<!--  DIVIDER  -->
-<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 
 ### _**You can find me on**_
 
