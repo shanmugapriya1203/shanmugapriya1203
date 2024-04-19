@@ -4,7 +4,8 @@ Hi 👋 My name is Shanmuga priya
 Web Developer
 -------------
 
-Highly motivated web developer with MERN stack proficiency eager to contribute and grow. Passionate about learning and collaborating. Avid reader, analytical thinker, and trend-conscious coder ready to make a positive impact
+
+Motivated web developer with expertise in the MERN stack, committed to contributing to impactful projects and continuous learning. Collaborative team player with a passion for coding, reading, and staying current with industry trends. Analytical thinker ready to make a positive difference.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [sam](http://shanmugapriya.netlify.app)
